@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upcoming Events - BioinfoHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .date {
+            font-size: 1.2em;
+            color: #555;
+        }
+        .event {
+            margin-top: 20px;
+            font-size: 1.1em;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Upcoming Events</h1>
+    <div class="date" id="current-date"></div>
+    <div class="event">
+        <strong>Olink Data Analysis Workshop</strong><br>
+        Date: November 9th<br>
+        Time: 12:00 - 13:00<br>
+        Place: L804 021, Immunoglobulin
+    </div>
+
+    <script>
+        // Display current date
+        const currentDate = new Date().toLocaleDateString();
+        document.getElementById("current-date").innerText = "Today’s date: " + currentDate;
+    </script

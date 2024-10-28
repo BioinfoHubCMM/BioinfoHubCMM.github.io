@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BioinfoHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+        .logo {
+            max-width: 150px;
+            margin: 10px auto;
+        }
+        .content {
+            margin: 20px;
+        }
+        .sidebar {
+            width: 200px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            background-color: #222;
+            padding-top: 20px;
+        }
+        .sidebar a, .sidebar .dropdown-btn {
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 16px;
+            color: #f1f1f1;
+            display: block;
+            border: none;
+            background: none;
+            text-align: left;
+            cursor: pointer;
+            outline: none;
+            width: 100%;
+        }
+        .sidebar a:hover, .dropdown-btn:hover {
+            background-color: #575757;
+        }
+        .dropdown-container {
+            display: none;
+            background-color: #414141;
+            padding-left: 15px;
+        }
+        .github-logo {
+            margin-top: 30px;
+            width: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to the BioinfoHub!</h1>
+        <img src="BioInfoHubLogo.jpeg" alt="BioinfoHub Logo" class="logo">
+    </header>
+
+    <div class="sidebar">
+        <button class="dropdown-btn">Menu
+            <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-container">
+            <a href="#events">Upcoming Events</a>
+            <a href="https://github.com/BioinfoHubCMM/olink"> Olink data analysis</a>
+            <a href="https://github.com/your-org/repo2">Repository 2</a>
+        </div>
+    </div>
+
+    <div class="content">
+        <p>Welcome to the BioinfoHub, where we collaborate, learn, and innovate in bioinformatics!</p>
+        <p>Stay tuned for updates, new repositories, and upcoming events!</p>
+    </div>
+
+    <footer>
+        <a href="https://github.com/Anacristina0914">
+            <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="github-logo">
+        </a>
+    </footer>
+
+    <script>
+        document.querySelector(".dropdown-btn").addEventListener("click", function() {
+            this.classList.toggle("active");
+            var dropdownContent = this.nextElementSibling;
+            if (dropdownContent.style.display === "block") {
+                dropdownContent.style.display = "none";
+            } else {
+                dropdownContent.style.display = "block";
+            }
+        });
+    </script>
+
+</body>
+</html>

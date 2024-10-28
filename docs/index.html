@@ -32,6 +32,7 @@
             height: 100%;
             background-color: #222;
             padding-top: 20px;
+            display: none; /* Hide sidebar by default */
         }
         .sidebar a, .sidebar .dropdown-btn {
             padding: 10px 15px;
@@ -58,6 +59,30 @@
             margin-top: 30px;
             width: 40px;
         }
+        /* Media query for larger screens */
+        @media (min-width: 768px) {
+            .sidebar {
+                display: block;
+            }
+            .menu-button {
+                display: none;
+            }
+        }
+        /* Button to toggle sidebar on mobile */
+        .menu-button {
+            font-size: 20px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            display: block;
+        }
+        /* Additional style to display the sidebar when toggled on mobile */
+        .sidebar.show {
+            display: block;
+            width: 100%; /* Full width on mobile */
+        }
     </style>
 </head>
 <body>
@@ -67,27 +92,27 @@
         <img src="BioInfoHubLogo_1.png" alt="BioinfoHub Logo" class="logo">
     </header>
 
-    <div class="sidebar">
+    <button class="menu-button" onclick="toggleSidebar()">☰ Menu</button>
+
+    <div class="sidebar" id="sidebar">
         <button class="dropdown-btn">Menu
             <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-container">
             <a href="events.html">Upcoming Events</a>
-            <a href="https://github.com/BioinfoHubCMM/olinkanalysis"> Olink data analysis</a>
+            <a href="https://github.com/BioinfoHubCMM/olinkanalysis">Olink data analysis</a>
         </div>
     </div>
 
     <div class="content">
         <p>Welcome to the BioinfoHub, where we collaborate, learn, and innovate in bioinformatics!</p>
         <p>Stay tuned for updates, new repositories, and upcoming events!</p>
-        <br>
-        <br>
+        <br><br>
         <p><b>Connect with us:</b></p>
         <p>Do you want to help organizing the BioinfoHub at CMM? get in contact with us! </p>
         <p><b>Lina Diaz Gallo: </b>lina.diaz@ki.se</p>
-        <p><b> Ana Cristina Gonzalez: </b>ana.cristina.gonzalez.sanchez@ki.se</p>
-        <p></p><b>Narsis Kiani: </b>narsis.kiani@ki.se</p>
-
+        <p><b>Ana Cristina Gonzalez: </b>ana.cristina.gonzalez.sanchez@ki.se</p>
+        <p><b>Narsis Kiani: </b>narsis.kiani@ki.se</p>
     </div>
 
     <footer>
@@ -97,6 +122,11 @@
     </footer>
 
     <script>
+        function toggleSidebar() {
+            const sidebar = document.getElementById("sidebar");
+            sidebar.classList.toggle("show");
+        }
+
         document.querySelector(".dropdown-btn").addEventListener("click", function() {
             this.classList.toggle("active");
             var dropdownContent = this.nextElementSibling;

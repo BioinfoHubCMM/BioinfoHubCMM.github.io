@@ -1,6 +1,6 @@
 # Welcome to the BioinfoHub!
 <div style="text-align: center;">
-    <img src="BioInfoHubLogo.jpeg" alt="BioinfoHub Logo" width="120">
+    <img src="docs/BioInfoHubLogo_1.png" alt="BioinfoHub Logo" width="120">
 </div>  
 
 Welcome to the **BioinfoHub at the Center for Molecular Medicine (CMM)**, where we collaborate, learn, and innovate in bioinformatics! Stay tuned for updates, new repositories, and upcoming events!

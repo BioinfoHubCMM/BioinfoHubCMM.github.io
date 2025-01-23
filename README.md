@@ -7,9 +7,9 @@ Welcome to the **BioinfoHub at the Center for Molecular Medicine (CMM)**, where 
 
 ## Menu
 
-- [Upcoming Events](#upcoming-events)
-- [Olink Data Analysis Repository](https://github.com/BioinfoHubCMM/olink)
-- [Repository 2](https://github.com/your-org/repo2)
+- [Upcoming Events](https://bioinfohubcmm.github.io/events.html)
+- [Olink Data Analysis Repository](https://github.com/BioinfoHubCMM/olinkanalysis)
+- [Methylation analysis](https://github.com/BioinfoHubCMM/methylationanalysis)
 
 ---
 

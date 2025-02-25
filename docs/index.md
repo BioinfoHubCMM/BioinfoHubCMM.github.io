@@ -7,4 +7,4 @@
 Welcome to the **BioinfoHub at the Center for Molecular Medicine (CMM)**, where we collaborate, learn, and innovate in bioinformatics! Stay tuned for updates, new repositories, and upcoming events!
 
 ## Follow us on GitHub
-[Github Bioinformatics Hub at CMM](https://github.com/BioinfoHubCMM)
+

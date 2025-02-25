@@ -1,0 +1,8 @@
+site_name: BioinfoHubCMM
+nav:
+  - Home: index.md
+  - Upcoming events: events.md
+  - Past events: past_events.md
+  - GitHub repos: repos.md
+  - About: about.md
+  - Contact us: contacts.md

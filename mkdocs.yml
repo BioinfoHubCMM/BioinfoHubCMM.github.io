@@ -1,8 +1,32 @@
 site_name: BioinfoHubCMM
 nav:
   - Home: index.md
-  - Upcoming events: events.md
-  - Past events: past_events.md
-  - GitHub repos: repos.md
+  - Events:
+    - Upcoming events: events.md
+    - Past events: past_events.md
   - About: about.md
   - Contact us: contacts.md
+
+theme: 
+  name: flatly
+  logo: assets/images/BioInfoHubLogo_1.png
+  favicon: assets/images/BioInfoHubLogo_1.png
+#  custom_dir: overrides
+
+site_author: Ana Cristina Gonzalez-Sanchez
+
+# Extras
+extra_css: 
+  - css/extra.css
+extra_javascript:
+  - jss/extra.jss
+
+# Site
+site_url: https://bioinfohubcmm.github.io/
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Anacristina0914/
+      name: Ana Cristina Gonzalez-Sanchez

@@ -8,7 +8,7 @@ nav:
   - Contact us: contacts.md
 
 theme: 
-  name: flatly
+  name: lumen
   logo: ./BioinfoHubCMM.github.io/assets/images/BioInfoHubLogo_1.png
   favicon: ./BioinfoHubCMM.github.io/assets/images/BioInfoHubLogo_1.png
 #  custom_dir: overrides

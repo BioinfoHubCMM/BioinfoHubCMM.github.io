@@ -1,42 +1,25 @@
-name: Quarto Publish
-
 on:
-  push:
-    branches: ["main"]
   workflow_dispatch:
+  push:
+    branches: "main"
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+name: Quarto Publish
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Setup Pandoc (optional, for markdown conversion)
-        uses: pandoc/actions/setup@v1
-
-      - name: Setup Quarto
+      - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render Quarto site
-        uses: quarto-dev/quarto-actions/render@v2
-        run: quarto render
-
-      - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          path: ./_site  # Quarto default output folder
-
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build-deploy
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

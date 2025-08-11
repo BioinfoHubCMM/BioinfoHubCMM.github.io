@@ -1,18 +1,4 @@
+# Upcoming events  
 ---
-title: "Connect with us!"
----
 
-Do you want to help with the organization of the events? Get in touch with us:
-
-### Lina Diaz-Gallo
-**email:** lina.diaz@ki.se  
-
-### Narsis Kiani
-**email:** narsis.kiani@ki.se  
-
-### Ana Cristina Gonzalez-Sanchez 
-**email:** ana.cristina.gonzalez.sanchez@ki.se  
-**GitHub:**
-<div style="text-align: left;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25"> anacristina0914
-</div>
+No new events are scheduled at the time.

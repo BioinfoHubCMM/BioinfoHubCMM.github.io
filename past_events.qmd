@@ -13,3 +13,9 @@ title: "Past Events"
 **Time:** 12:00 - 13:00  
 **Place:** CMM lecture Hall  
 **Repo:** [Methylation data Analysis](https://github.com/BioinfoHubCMM/methylationanalysis)
+
+## Polygenic Risk Scores (PRS)
+**Date:** March 27th 2025  
+**Time:** TBA  
+**Place:** TBA  
+**Repo:** [Polygenic Risk Scores](https://github.com/BioinfoHubCMM/PolygenicRiskScores)

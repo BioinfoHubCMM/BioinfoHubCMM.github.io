@@ -15,13 +15,14 @@ website:
         text: Past Events
       - href: about.qmd
         text: About
-      - href: contacts.qmd
-        text: Contact Us
       - href: recommended_courses.qmd
         text: Recommended courses
+      - href: contacts.qmd
+        text: Contact Us
+
   page-footer:
     center: |
-      © 2025 BioinfoHub @ CMM – Built with [Quarto](https://quarto.org)
+      © 2025 BioinfoHub @ CMM
 
 format:
   html:

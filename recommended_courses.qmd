@@ -1,0 +1,37 @@
+---
+title: "Recommended Courses & Resources"
+format: html
+---
+
+# Recommended Courses & Resources
+
+Welcome! If you're new to coding or want to learn key tools used in bioinformatics and data science, here are some great free online resources to get you started.
+
+---
+
+## R Programming (tidyverse & Data Science)
+
+- **[Getting started with R and RStudio](https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/)**
+A free and basic course of R and Rstudio. Here you will find instructions on how to install R and Rstudio and some practical examples.
+
+- **[Basic Basics](https://rladiessydney.org/courses/01-basicbasics-0)**
+Another basic course in R which includes some videos.
+
+- **[Clean it up](https://rladiessydney.org/courses/02-cleanitup-0)**
+Basics on data cleaning.
+
+- **[R for Data Science (R4DS) 2nd edition](https://r4ds.hadley.nz/)**  
+A free, comprehensive online book by Hadley Wickham that teaches R with the tidyverse ecosystem. Hands-on and beginner-friendly.
+
+- **[tidyverse.org - Learn](https://www.tidyverse.org/learn/)**  
+Official tidyverse tutorials and resources curated for learning modern R packages.
+
+---
+
+## Python Programming
+
+- **[Python for Everybody (University of Michigan)](https://www.py4e.com)**
+
+---
+## Useful cheatsheets
+- **[Posit cheatsheets](https://posit.co/resources/cheatsheets/)**

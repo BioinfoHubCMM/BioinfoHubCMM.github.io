@@ -12,13 +12,13 @@ website:
       - href: events.qmd
         text: Events
       - href: past_events.qmd
-        text: Past Events
-      - href: about.qmd
-        text: About
+        text: Past events
       - href: recommended_courses.qmd
         text: Recommended courses
+      - href: about.qmd
+        text: About
       - href: contacts.qmd
-        text: Contact Us
+        text: Contact us
 
   page-footer:
     center: |

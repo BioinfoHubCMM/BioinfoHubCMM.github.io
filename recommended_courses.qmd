@@ -3,8 +3,6 @@ title: "Recommended Courses & Resources"
 format: html
 ---
 
-# Recommended Courses & Resources
-
 Welcome! If you're new to coding or want to learn key tools used in bioinformatics and data science, here are some great free online resources to get you started.
 
 ---

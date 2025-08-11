@@ -1,4 +1,5 @@
-# Upcoming events  
+---
+title: "Upcoming events"
 ---
 
 No new events are scheduled at the time.

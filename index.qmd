@@ -1,5 +1,5 @@
 ---
-title: "BioinfoHub"
+title: "The Bioinformatics Hub at the Center for Molecular Medicine (CMM)"
 format:
     html:
         page-layout: full

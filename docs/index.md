@@ -1,7 +1,7 @@
 # Welcome to the BioinfoHub!
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/BioinfoHubCMM/BioinfoHubCMM.github.io/refs/heads/main/docs/BioInfoHubLogo_1.png" alt="BioinfoHub Logo" width="150">
+    <img src="https://raw.githubusercontent.com/BioinfoHubCMM/BioinfoHubCMM.github.io/refs/heads/main/assets/images/BioInfoHubLogo_1.png" alt="BioinfoHub Logo" width="150">
 </div>  
 
 

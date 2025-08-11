@@ -9,8 +9,8 @@ nav:
 
 theme: 
   name: flatly
-  logo: assets/images/BioInfoHubLogo_1.png
-  favicon: assets/images/BioInfoHubLogo_1.png
+  logo: /BioinfoHubCMM.github.io/assets/images/BioInfoHubLogo_1.png
+  favicon: /BioinfoHubCMM.github.io/assets/images/BioInfoHubLogo_1.png
 #  custom_dir: overrides
 
 site_author: Ana Cristina Gonzalez-Sanchez

@@ -21,6 +21,34 @@
     "text": "The Bioinformatics Hub (BioinfoHub) at the Center for Molecular Medicine (CMM) Karolinska Institutet was established in 2024. We aim to foster collaboration and discussion within the bioinformatics community. The hub hosts bi-monthly lunch workshops and organizes engaging social events, creating a vibrant space for knowledge sharing and networking.\nWelcome!"
   },
   {
+    "objectID": "recommended_courses.html",
+    "href": "recommended_courses.html",
+    "title": "Recommended Courses & Resources",
+    "section": "",
+    "text": "Welcome! If you’re new to coding or want to learn key tools used in bioinformatics and data science, here are some great free online resources to get you started.\n\n\n\n\nGetting started with R and RStudio A free and basic course of R and Rstudio. Here you will find instructions on how to install R and Rstudio and some practical examples.\nBasic Basics Another basic course in R which includes some videos.\nClean it up Basics on data cleaning.\nR for Data Science (R4DS) 2nd edition\nA free, comprehensive online book by Hadley Wickham that teaches R with the tidyverse ecosystem. Hands-on and beginner-friendly.\ntidyverse.org - Learn\nOfficial tidyverse tutorials and resources curated for learning modern R packages.\n\n\n\n\n\n\nPython for Everybody (University of Michigan)\n\n\n\n\n\n\nPosit cheatsheets"
+  },
+  {
+    "objectID": "recommended_courses.html#r-programming-tidyverse-data-science",
+    "href": "recommended_courses.html#r-programming-tidyverse-data-science",
+    "title": "Recommended Courses & Resources",
+    "section": "",
+    "text": "Getting started with R and RStudio A free and basic course of R and Rstudio. Here you will find instructions on how to install R and Rstudio and some practical examples.\nBasic Basics Another basic course in R which includes some videos.\nClean it up Basics on data cleaning.\nR for Data Science (R4DS) 2nd edition\nA free, comprehensive online book by Hadley Wickham that teaches R with the tidyverse ecosystem. Hands-on and beginner-friendly.\ntidyverse.org - Learn\nOfficial tidyverse tutorials and resources curated for learning modern R packages."
+  },
+  {
+    "objectID": "recommended_courses.html#python-programming",
+    "href": "recommended_courses.html#python-programming",
+    "title": "Recommended Courses & Resources",
+    "section": "",
+    "text": "Python for Everybody (University of Michigan)"
+  },
+  {
+    "objectID": "recommended_courses.html#useful-cheatsheets",
+    "href": "recommended_courses.html#useful-cheatsheets",
+    "title": "Recommended Courses & Resources",
+    "section": "",
+    "text": "Posit cheatsheets"
+  },
+  {
     "objectID": "past_events.html",
     "href": "past_events.html",
     "title": "Past Events",

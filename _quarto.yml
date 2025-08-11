@@ -17,6 +17,8 @@ website:
         text: About
       - href: contacts.qmd
         text: Contact Us
+      - href: recommended_courses.qmd
+        text: Recommended courses
   page-footer:
     center: |
       © 2025 BioinfoHub @ CMM – Built with [Quarto](https://quarto.org)

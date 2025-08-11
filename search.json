@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Connect with us!",
+    "section": "",
+    "text": "Do you want to help with the organization of the events? Get in touch with us:\n\nLina Diaz-Gallo\nemail: lina.diaz@ki.se\n\n\nNarsis Kiani\nemail: narsis.kiani@ki.se\n\n\nAna Cristina Gonzalez-Sanchez\nemail: ana.cristina.gonzalez.sanchez@ki.se\nGitHub:\n\n&lt;img src=\"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\" alt=\"anacristina0914\" width=\"25\"&gt;"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "BioinfoHub @ CMM",
+    "section": "",
+    "text": "No new events are scheduled at the time."
+  },
+  {
+    "objectID": "events.html#upcoming-events",
+    "href": "events.html#upcoming-events",
+    "title": "BioinfoHub @ CMM",
+    "section": "",
+    "text": "No new events are scheduled at the time."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Bioinformatics Hub (BioinfoHub) at the Center for Molecular Medicine (CMM) Karolinska Institutet was established in 2024. We aim to foster collaboration and discussion within the bioinformatics community. The hub hosts bi-monthly lunch workshops and organizes engaging social events, creating a vibrant space for knowledge sharing and networking.\nWelcome!"
+  },
+  {
     "objectID": "past_events.html",
     "href": "past_events.html",
     "title": "Past Events",
@@ -26,34 +54,6 @@
     "title": "Past Events",
     "section": "Polygenic Risk Scores (PRS)",
     "text": "Polygenic Risk Scores (PRS)\nDate: March 27th 2025\nTime: TBA\nPlace: TBA\nRepo: Polygenic Risk Scores"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "BioinfoHub @ CMM",
-    "section": "",
-    "text": "No new events are scheduled at the time."
-  },
-  {
-    "objectID": "events.html#upcoming-events",
-    "href": "events.html#upcoming-events",
-    "title": "BioinfoHub @ CMM",
-    "section": "",
-    "text": "No new events are scheduled at the time."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The Bioinformatics Hub (BioinfoHub) at the Center for Molecular Medicine (CMM) Karolinska Institutet was established in 2024. We aim to foster collaboration and discussion within the bioinformatics community. The hub hosts bi-monthly lunch workshops and organizes engaging social events, creating a vibrant space for knowledge sharing and networking.\nWelcome!"
-  },
-  {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Connect with us!",
-    "section": "",
-    "text": "Do you want to help with the organization of the events? Get in touch with us:\n\nLina Diaz-Gallo\nemail: lina.diaz@ki.se\n\n\nNarsis Kiani\nemail: narsis.kiani@ki.se\n\n\nAna Cristina Gonzalez-Sanchez\nemail: ana.cristina.gonzalez.sanchez@ki.se\nGitHub:\n\n![anacristina0914](\"https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png\"){width=25px}"
   },
   {
     "objectID": "index.html",

@@ -9,14 +9,7 @@
   {
     "objectID": "events.html",
     "href": "events.html",
-    "title": "BioinfoHub @ CMM",
-    "section": "",
-    "text": "No new events are scheduled at the time."
-  },
-  {
-    "objectID": "events.html#upcoming-events",
-    "href": "events.html#upcoming-events",
-    "title": "BioinfoHub @ CMM",
+    "title": "Upcoming events",
     "section": "",
     "text": "No new events are scheduled at the time."
   },
@@ -58,14 +51,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BioinfoHub",
+    "title": "The Bioinformatics Hub at the Center for Molecular Medicine (CMM)",
     "section": "",
     "text": "Welcome to the BioinfoHub at the Center for Molecular Medicine (CMM), where we collaborate, learn, and innovate in bioinformatics! Stay tuned for updates, new repositories, and upcoming events!"
   },
   {
     "objectID": "index.html#follow-us-on-github",
     "href": "index.html#follow-us-on-github",
-    "title": "BioinfoHub",
+    "title": "The Bioinformatics Hub at the Center for Molecular Medicine (CMM)",
     "section": "Follow us on GitHub",
     "text": "Follow us on GitHub\nBioinfoHub"
   }

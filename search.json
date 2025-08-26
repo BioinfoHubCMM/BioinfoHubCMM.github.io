@@ -32,7 +32,7 @@
     "href": "recommended_courses.html#integrated-development-environments-ides",
     "title": "Recommended Courses & Resources",
     "section": "Integrated Development Environments (IDEs)",
-    "text": "Integrated Development Environments (IDEs)\nIDEs are software applications that provide an environment for writing, debugging, running and testing code. There are several options, but two popular options are RStudio and Visual Studio code (VSCode)).\n\nR & RStudio installation\n\nR & RStudio installation\n\n\n\nVSCode installation\n\nVSCode download"
+    "text": "Integrated Development Environments (IDEs)\nIDEs are software applications that provide an environment for writing, debugging, running and testing code. There are several options, but two popular options are RStudio and Visual Studio code (VSCode).\n\nR & RStudio installation\n\nR & RStudio installation\n\n\n\nVSCode installation\n\nVSCode download"
   },
   {
     "objectID": "recommended_courses.html#r-programming-tidyverse-data-science",

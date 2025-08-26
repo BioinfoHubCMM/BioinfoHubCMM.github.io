@@ -28,6 +28,13 @@
     "text": "Welcome! If you’re new to coding or want to learn key tools used in bioinformatics and data science, here are some great free online resources to get you started."
   },
   {
+    "objectID": "recommended_courses.html#integrated-development-environments-ides",
+    "href": "recommended_courses.html#integrated-development-environments-ides",
+    "title": "Recommended Courses & Resources",
+    "section": "Integrated Development Environments (IDEs)",
+    "text": "Integrated Development Environments (IDEs)\nIDEs are software applications that provide an environment for writing, debugging, running and testing code. There are several options, but two popular options are RStudio and Visual Studio code (VSCode)).\n\nR & RStudio installation\n\nR & RStudio installation\n\n\n\nVSCode installation\n\nVSCode download"
+  },
+  {
     "objectID": "recommended_courses.html#r-programming-tidyverse-data-science",
     "href": "recommended_courses.html#r-programming-tidyverse-data-science",
     "title": "Recommended Courses & Resources",

@@ -7,6 +7,15 @@ Welcome! If you're new to coding or want to learn key tools used in bioinformati
 
 ---
 
+## Integrated Development Environments (IDEs)
+IDEs are software applications that provide an environment for writing, debugging, running and testing code. There are several options, but two popular options are [RStudio](https://posit.co/products/open-source/rstudio/?sid=1) and [Visual Studio code (VSCode))](https://code.visualstudio.com/). 
+
+### R & RStudio installation
+- **[R & RStudio installation](https://posit.co/download/rstudio-desktop/)**
+
+### VSCode installation
+- **[VSCode download](https://code.visualstudio.com/Download)**
+
 ## R Programming (tidyverse & Data Science)
 
 - **[Getting started with R and RStudio](https://www.dataquest.io/blog/tutorial-getting-started-with-r-and-rstudio/)**

@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Connect with us!",
-    "section": "",
-    "text": "Do you want to help with the organization of the events? Get in touch with us:\n\nLina Diaz-Gallo\nemail: lina.diaz@ki.se\n\n\nNarsis Kiani\nemail: narsis.kiani@ki.se\n\n\nAna Cristina Gonzalez-Sanchez\nemail: ana.cristina.gonzalez.sanchez@ki.se\nGitHub: anacristina0914"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Upcoming events",
-    "section": "",
-    "text": "No new events are scheduled at the time."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "The Bioinformatics Hub (BioinfoHub) at the Center for Molecular Medicine (CMM) Karolinska Institutet was established in 2024. We aim to foster collaboration and discussion within the bioinformatics community. The hub hosts bi-monthly lunch workshops and organizes engaging social events, creating a vibrant space for knowledge sharing and networking.\nWelcome!"
-  },
-  {
     "objectID": "recommended_courses.html",
     "href": "recommended_courses.html",
     "title": "Recommended Courses & Resources",
@@ -56,6 +35,48 @@
     "text": "Useful cheatsheets\n\nPosit cheatsheets"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Bioinformatics Hub at the Center for Molecular Medicine (CMM)",
+    "section": "",
+    "text": "Welcome to the BioinfoHub at the Center for Molecular Medicine (CMM), where we collaborate, learn, and innovate in bioinformatics! Stay tuned for updates, new repositories, and upcoming events!"
+  },
+  {
+    "objectID": "index.html#follow-us-on-github",
+    "href": "index.html#follow-us-on-github",
+    "title": "The Bioinformatics Hub at the Center for Molecular Medicine (CMM)",
+    "section": "Follow us on GitHub",
+    "text": "Follow us on GitHub\nBioinfoHub"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Upcoming events",
+    "section": "",
+    "text": "Date: September 24th 2025\nTime: 13:00 - 14:45\nPlace: CMM lecture Hall\nRepo: TBA"
+  },
+  {
+    "objectID": "events.html#cmm-computational-resources",
+    "href": "events.html#cmm-computational-resources",
+    "title": "Upcoming events",
+    "section": "",
+    "text": "Date: September 24th 2025\nTime: 13:00 - 14:45\nPlace: CMM lecture Hall\nRepo: TBA"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Connect with us!",
+    "section": "",
+    "text": "Do you want to help with the organization of the events? Get in touch with us:\n\nLina Diaz-Gallo\nemail: lina.diaz@ki.se\n\n\nNarsis Kiani\nemail: narsis.kiani@ki.se\n\n\nAna Cristina Gonzalez-Sanchez\nemail: ana.cristina.gonzalez.sanchez@ki.se\nGitHub: anacristina0914"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Bioinformatics Hub (BioinfoHub) at the Center for Molecular Medicine (CMM) Karolinska Institutet was established in 2024. We aim to foster collaboration and discussion within the bioinformatics community. The hub hosts bi-monthly lunch workshops and organizes engaging social events, creating a vibrant space for knowledge sharing and networking.\nWelcome!"
+  },
+  {
     "objectID": "past_events.html",
     "href": "past_events.html",
     "title": "Past Events",
@@ -82,19 +103,5 @@
     "title": "Past Events",
     "section": "Polygenic Risk Scores (PRS)",
     "text": "Polygenic Risk Scores (PRS)\nDate: March 27th 2025\nTime: 12:00 - 13:00\nPlace: CMM lecture Hall\nRepo: Polygenic Risk Scores"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Bioinformatics Hub at the Center for Molecular Medicine (CMM)",
-    "section": "",
-    "text": "Welcome to the BioinfoHub at the Center for Molecular Medicine (CMM), where we collaborate, learn, and innovate in bioinformatics! Stay tuned for updates, new repositories, and upcoming events!"
-  },
-  {
-    "objectID": "index.html#follow-us-on-github",
-    "href": "index.html#follow-us-on-github",
-    "title": "The Bioinformatics Hub at the Center for Molecular Medicine (CMM)",
-    "section": "Follow us on GitHub",
-    "text": "Follow us on GitHub\nBioinfoHub"
   }
 ]

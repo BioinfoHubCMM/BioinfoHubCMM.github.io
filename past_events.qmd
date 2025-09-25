@@ -19,3 +19,9 @@ title: "Past Events"
 **Time:** 12:00 - 13:00  
 **Place:** CMM lecture Hall  
 **Repo:** [Polygenic Risk Scores](https://github.com/BioinfoHubCMM/PolygenicRiskScores)
+
+## CMM Computational Resources
+**Date:** September 24th 2025  
+**Time:** 13:00 - 14:45  
+**Place:** CMM lecture Hall  
+**Repo:** TBA

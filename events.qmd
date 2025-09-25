@@ -1,9 +1,3 @@
 ---
 title: "Upcoming events"
 ---
-
-## CMM Computational Resources
-**Date:** September 24th 2025  
-**Time:** 13:00 - 14:45  
-**Place:** CMM lecture Hall  
-**Repo:** TBA
